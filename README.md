@@ -1,5 +1,6 @@
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+(https://badges.pufler.dev/visits/trinhkhoa/README.md
 
+)
 ```{python}
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
