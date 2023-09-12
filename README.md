@@ -4,7 +4,7 @@
 [![Linkedin: trinhkhoa](https://img.shields.io/badge/-trinhkhoa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khoa-trinh-h-8a9476201/)](https://www.linkedin.com/in/khoa-trinh-h-8a9476201/)
 [![Intagram: khoabrian.trinh](https://img.shields.io/badge/-khoabrian.trinh-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/khoabrian.trinh/)](https://www.instagram.com/khoabrian.trinh/)
 [![Facebook: khoabrian.trinh](https://img.shields.io/badge/-Trịnh_Khoa-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hoangkhoa.trinh)](https://www.facebook.com/hoangkhoa.trinh)
-[![Website: briantrinh](https://img.shields.io/badge/-Brian_Trịnh-000000?style=flat-square&logo=facebook&logoColor=white&link=https://briantrinh.super.site/)](https://briantrinh.super.site/)
+[![Website: briantrinh](https://img.shields.io/badge/-Brian_Trịnh-000000?style=flat-square&logo=About.me&logoColor=white&link=https://briantrinh.super.site/)](https://briantrinh.super.site/)
 ![Discord: trinh_k1](https://img.shields.io/badge/-trinh_k1-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=trinhkhoa.trinhkhoa-badge&format=true)
 
