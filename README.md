@@ -1,6 +1,7 @@
 <h1>Welcome to my GitHub README.md</h1>
 
 [![Linkedin: trinhkhoa](https://img.shields.io/badge/-trinhkhoa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khoa-trinh-h-8a9476201/)](https://www.linkedin.com/in/khoa-trinh-h-8a9476201/)
+[![Intagram: khoabrian.trinh](https://img.shields.io/badge/-khoabrian.trinh-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/khoabrian.trinh/)](https://www.instagram.com/khoabrian.trinh/)
 [![GitHub trinhkhoa](https://img.shields.io/github/followers/trinhkhoa?label=follow&style=social)](https://github.com/trinhkhoa)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=trinhkhoa.trinhkhoa-badge&format=true)
 ## <img src="bluey.gif" width="50"/> Web-self
