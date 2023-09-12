@@ -1,6 +1,4 @@
-(https://badges.pufler.dev/visits/trinhkhoa/README.md
-
-)
+(https://badges.pufler.dev/visits/trinhkhoa/README.md)
 ```{python}
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
