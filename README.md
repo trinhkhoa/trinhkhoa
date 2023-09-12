@@ -44,4 +44,5 @@ me.say_hi()
 ```
 ## 📝 Blogs
 - Personal website: https://briantrinh.super.site/
-
+  
+<img src="path/in/repository/to/image.svg" width="128"/>
