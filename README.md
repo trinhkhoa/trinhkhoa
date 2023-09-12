@@ -1,5 +1,4 @@
-(https://badges.pufler.dev/visits/trinhkhoa/README.md)
-https://img.shields.io/badge/Visitors-(https://badges.pufler.dev/visits/trinhkhoa/README.md)-green
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=trinhkhoa.trinhkhoa)
 ```{python}
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
