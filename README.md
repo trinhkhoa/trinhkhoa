@@ -1,7 +1,8 @@
 <h1>Welcome to my GitHub README.md</h1>
 
+[![Linkedin: trinhkhoa](https://img.shields.io/badge/-trinhkhoa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khoa-trinh-h-8a9476201/)](https://www.linkedin.com/in/khoa-trinh-h-8a9476201/)
+[![GitHub trinhkhoa](https://img.shields.io/github/followers/trinhkhoa?label=follow&style=social)](https://github.com/trinhkhoa)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=trinhkhoa.trinhkhoa-badge&format=true)
-
 ## Web-self 👋
 ```python
 #!/usr/bin/python
