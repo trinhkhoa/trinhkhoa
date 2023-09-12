@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=trinhkhoa.README.md)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=trinhkhoa.trinhkhoa-badge&format=true)
 ```{python}
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
